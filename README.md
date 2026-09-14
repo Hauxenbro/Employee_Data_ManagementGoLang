@@ -28,7 +28,7 @@ type Manager struct {
 ```
 
 ### 1.Copier le programme
-`git clone`
+`git clone https://github.com/Hauxenbro/Employee_Data_ManagementGoLang.git`
 ### 2. Executer
 ` go run data_management.go `
 ### 3. Example:
